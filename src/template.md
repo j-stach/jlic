@@ -1,6 +1,6 @@
 
 ## SOFTWARE
-"{{name}}" v{{version}}
+"{{name}}" v{{version}} <br>
 Copyright (c) {{year}} {{authors}}
 
 ## JLICENSE
