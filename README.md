@@ -1,14 +1,14 @@
 
 # jlic
 
-This tool can be used to automatically generate a simple GPL-Proprietary dual license for a Rust project. <br>
+This tool can be used to automatically generate a simple GPL/Proprietary dual license for your Rust project. <br>
 View the license template at [template.md](./src/template.md). <br>
 
 
 ### How to use
-Install [jlic](https://crates.io/crate/jlic) by running `cargo install jlic`. <br>
+1. Install [jlic](https://crates.io/crate/jlic) by running `cargo install jlic`. <br>
 
-To generate a license, `cd` into your Rust project and run `jlic`. <br>
+2. To generate a license, `cd` into your Rust project and run `jlic`. <br>
 
 Run `jlic --help` to view available options. <br>
 
@@ -18,7 +18,7 @@ Updating package information through `jlic -c` produces valid TOML but results i
 
 ### Troubleshooting
 Please ensure that your Rust project is structured correctly and that you are running this script from within the project directory.
-If your project builds with `cargo build` then you should not run into trouble using `jlic`. <br>
+If you can run `cargo build` then you should not have trouble using `jlic`. <br>
 If you still encounter errors, please report the issue on the [github repository](https://github.com/j-stach/jlic)! <br>
 
 ## *Disclaimer:*
