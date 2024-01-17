@@ -3,7 +3,7 @@
 "{{name}}" v{{version}} <br>
 Copyright (c) {{year}} {{authors}}
 
-## JLICENSE
+## LICENSE
 This Dual Licensing Agreement ("Agreement") is entered into by and between 
 the author(s) ("Licensor") and the recipient ("Licensee") of the SOFTWARE ("software").
 
