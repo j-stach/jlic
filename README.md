@@ -2,6 +2,7 @@
 # jlic
 
 This tool can be used to automatically generate a simple GPL/Proprietary dual license for your Rust project. <br>
+
 View the license template at [template.md](./src/template.md). <br>
 
 
