@@ -16,4 +16,9 @@ edition = "2021"
 license-file = "JLICENSE.md"
 name = "jlic"
 version = "0.1.0"
-
+description = "Automatically generate a simple GPL/Proprietary dual license for your Rust project"
+repository = "https://github.com/j-stach/jlic"
+homepage = "https://github.com/j-stach/jlic"
+documentation = "https://github.com/j-stach/jlic"
+categories = ["command-line-utilities"]
+readme = "README.md"
