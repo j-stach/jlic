@@ -27,15 +27,15 @@ the author(s) ("Licensor") and the recipient ("Licensee") of the SOFTWARE ("soft
 - The proprietary license may include limitations on the use of the software in certain contexts or industries.
 - The proprietary license may include ethical conditions that Licensee must adhere to.
 
-### 3. Compatibility:
+### 3. Compatibility
 - The proprietary license option is independent of the GPL option, and Licensee may choose either option.
 - Use of the software under the GPL, including commercial use, does not require a License Contract.
 - Use, modification, or distribution of the software in any other context requires a License Contract. 
 
-### 4. Support and Maintenance:
+### 4. Support and Maintenance
 Support and maintenance services may be available under both the GPL and the proprietary license, subject to separate agreements.
 
-### 5. Governing Law:
+### 5. Governing Law
 This license shall be governed by and construed in accordance with the laws of the jurisdiction chosen by the licensor.
 
 
