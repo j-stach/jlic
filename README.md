@@ -19,7 +19,8 @@ Updating package information through `jlic -c` produces valid TOML but results i
 
 ### Troubleshooting
 Please ensure that your Rust project is structured correctly and that you are running this script from within the project directory.
-If you can run `cargo build` then you should not have trouble using `jlic`. <br>
+Also, ensure that `.cargo/bin/` is in your PATH.
+Otherwise, if you can run `cargo build` then you should not have trouble using `jlic`. <br>
 If you still encounter errors, please report the issue on the [github repository](https://github.com/j-stach/jlic)! <br>
 
 ## *Disclaimer:*
